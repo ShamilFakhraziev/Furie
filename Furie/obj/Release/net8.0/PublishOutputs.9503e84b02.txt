@@ -1,0 +1,6 @@
+C:\Users\Shamil\Desktop\Furie.exe
+C:\Users\Shamil\Desktop\Furie.dll
+C:\Users\Shamil\Desktop\Furie.deps.json
+C:\Users\Shamil\Desktop\Furie.runtimeconfig.json
+C:\Users\Shamil\Desktop\Furie.pdb
+C:\Users\Shamil\Desktop\MathNet.Numerics.dll
