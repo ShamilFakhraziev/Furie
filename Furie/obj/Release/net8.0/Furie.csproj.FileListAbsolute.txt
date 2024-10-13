@@ -1,0 +1,17 @@
+C:\Users\Shamil\Documents\CSharpProjects\Furie\Furie\bin\Release\net8.0\Furie.exe
+C:\Users\Shamil\Documents\CSharpProjects\Furie\Furie\bin\Release\net8.0\Furie.deps.json
+C:\Users\Shamil\Documents\CSharpProjects\Furie\Furie\bin\Release\net8.0\Furie.runtimeconfig.json
+C:\Users\Shamil\Documents\CSharpProjects\Furie\Furie\bin\Release\net8.0\Furie.dll
+C:\Users\Shamil\Documents\CSharpProjects\Furie\Furie\bin\Release\net8.0\Furie.pdb
+C:\Users\Shamil\Documents\CSharpProjects\Furie\Furie\bin\Release\net8.0\MathNet.Numerics.dll
+C:\Users\Shamil\Documents\CSharpProjects\Furie\Furie\obj\Release\net8.0\Furie.csproj.AssemblyReference.cache
+C:\Users\Shamil\Documents\CSharpProjects\Furie\Furie\obj\Release\net8.0\Furie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shamil\Documents\CSharpProjects\Furie\Furie\obj\Release\net8.0\Furie.AssemblyInfoInputs.cache
+C:\Users\Shamil\Documents\CSharpProjects\Furie\Furie\obj\Release\net8.0\Furie.AssemblyInfo.cs
+C:\Users\Shamil\Documents\CSharpProjects\Furie\Furie\obj\Release\net8.0\Furie.csproj.CoreCompileInputs.cache
+C:\Users\Shamil\Documents\CSharpProjects\Furie\Furie\obj\Release\net8.0\Furie.csproj.Up2Date
+C:\Users\Shamil\Documents\CSharpProjects\Furie\Furie\obj\Release\net8.0\Furie.dll
+C:\Users\Shamil\Documents\CSharpProjects\Furie\Furie\obj\Release\net8.0\refint\Furie.dll
+C:\Users\Shamil\Documents\CSharpProjects\Furie\Furie\obj\Release\net8.0\Furie.pdb
+C:\Users\Shamil\Documents\CSharpProjects\Furie\Furie\obj\Release\net8.0\Furie.genruntimeconfig.cache
+C:\Users\Shamil\Documents\CSharpProjects\Furie\Furie\obj\Release\net8.0\ref\Furie.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vuAiD9Xs34w=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Shamil\\Documents\\CSharpProjects\\Furie\\Furie\\Furie.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shamil\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
